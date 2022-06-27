@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungcholatt&label=Profile%20views&color=0e75b6&style=flat" alt="aungcholatt" /> </p>
 
-<!--------- 👨‍💻 All of my projects are available at [www.facebook.com/aungcholatt888](www.facebook.com/aungcholatt888) ------->
+<!-------- No yet------
+- 👨‍💻 All of my projects are available at [www.facebook.com/aungcholatt888](www.facebook.com/aungcholatt888) 
+------->
 
 - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
 
