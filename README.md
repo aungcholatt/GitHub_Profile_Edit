@@ -37,6 +37,9 @@
    <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
     </td>
      <td>
+ <a href="https://flutter.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain-wordmark.svg" alt="flutter" width="40" height="40"/></a> 
+   </td>
+     <td>
  <a href="https://laraval.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a> 
    </td>
   <td>
