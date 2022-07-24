@@ -24,6 +24,9 @@
 <p align="center"> 
 <table>
   <tr>
+  <td>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/Dart" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a> 
+   </td>
      <td>
 <a href="https://www.dart.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a> 
   </td>
@@ -32,6 +35,9 @@
   </td>
   <td>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+   </td>
+    <td>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/Flutter" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> 
    </td>
   <td>
   <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
