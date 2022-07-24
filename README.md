@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
 
-- 💬 Ask me about **Laravel and Vue**
+- 💬 Ask me about **Flutter and Laravel**
 
 - 📫 How to reach me **aungcholatt888@gmail.com**
 
