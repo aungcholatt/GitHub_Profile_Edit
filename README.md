@@ -27,6 +27,9 @@
   <td>
  <a href="https://developer.mozilla.org/en-US/docs/Web/Dart" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a> 
    </td>
+     <td>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/Swift" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a> 
+   </td>
     <td>
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
   </td>
