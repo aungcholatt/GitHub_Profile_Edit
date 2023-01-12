@@ -13,11 +13,9 @@
 
 - 📫 How to reach me **aungcholatt888@gmail.com**
 
-<a target="_blank" href="https://github.com/aungcholatt">
-  <img alt="Sergey's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=aungcholatt&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=false&hide_border=true&hide_rank=true" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungcholatt&layout=compact)](https://github.com/aungcholatt/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acl&show_icons=false&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
