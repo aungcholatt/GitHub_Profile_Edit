@@ -109,14 +109,14 @@
 </p>
 <table>
   <tr>
-  <td>
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
-    </td>
     <td>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" />
 </p>
   </td>
+      <td>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
+    </td>
   </tr>
   </table>
 <br/>
