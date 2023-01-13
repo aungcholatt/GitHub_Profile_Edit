@@ -117,7 +117,7 @@
 
 <h3>Github Stats:<a href="https://profile-summary-for-github.com/user/aungcholatt">https://profile-summary-for-github.com/user/aungcholatt</a></h3>
  <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc081098" alt="hoc081098" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aungcholatt" alt="aungcholatt" /></p>
 
 <!-- [![aungcholatt's github stats](https://github-readme-stats.vercel.app/api?username=aungcholatt&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/aungcholatt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/aungcholatt)
@@ -138,7 +138,7 @@
 
 
 
-[![aungcholatt's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungcholatt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![aungcholatt's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungcholatt&theme=buefy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <a href="https://commits.top/vietnam.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=aungcholatt&country=Myanmar&bg_color=#00FF00&text_color=fafafa&border_color=293035">
