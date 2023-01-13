@@ -138,7 +138,7 @@
 
 
 
-[![aungcholatt's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungcholatt&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![aungcholatt's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungcholatt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <a href="https://commits.top/vietnam.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=aungcholatt&country=Myanmar&bg_color=#00FF00&text_color=fafafa&border_color=293035">
