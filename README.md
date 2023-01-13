@@ -7,9 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/profile.php?id=100009292796950](https://www.facebook.com/profile.php?id=100009292796950) 
 ------->
 
-<p align="">
 - 🔭 I’m currently working on (https://www.kioskthailand.com/)
-</p>
 
 - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
 
@@ -17,9 +15,7 @@
 
 - 📫 How to reach me **aungcholatt888@gmail.com**
 
-<p align="">
 - 🌱 I’m currently learning **Nodejs**
-</p>
 
 <!-- <p align="">
 - ⚡ Fun fact **Self taught individual with more than 3 year of experience.**
@@ -27,7 +23,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
 
-<p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=hybridoitc" alt="hybridoitc" /></a> </p>
+<p align="left"> <a href="https://.com"><img src="https://github-profile-trophy.vercel.app/?username=aungcholatt" alt="aungcholatt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
