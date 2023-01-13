@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Flutter and Laravel**
 
-- 📫 How to reach me **aungcholatt888@gmail.com**
+<!-- - 📫 How to reach me **aungcholatt888@gmail.com** -->
 
 - 🌱 I’m currently learning **Nodejs**
 
@@ -38,6 +38,7 @@
   <tr>
   <td>
 <a href="[https://linkedin.com/in/hybridoitc](https://www.linkedin.com/in/aungcho-latt-580755243/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aungcholatt" height="30" width="40" /></a>
+    <a href="aungcholatt888@gmail.com"><img src="https://img.shields.io/badge/-aungcholatt@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </td>
   <td>
 <a href="https://www.facebook.com/profile.php?id=100009292796950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungcholatt888" height="30" width="40" /></a>
@@ -50,14 +51,15 @@
 <!-- [![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart) -->
 <!-- [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source) -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 [![Swift](https://img.shields.io/badge/swift-%23FFac45.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/hoc081098/PhDownloader)
 [![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")](https://github.com/hoc081098/search-book-MVVM-MVI-RxSwift)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
 <p align="center"> 
