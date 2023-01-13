@@ -38,6 +38,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009292796950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungcholatt888" height="30" width="40" /></a>
 <a href="https://aungcholatt888@gmail.com" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" title="Gmail" height="30" width="40"/></a>
   <a href="https://t.me/AungChoLatt" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" title="Telegram" height="30" width="40"/><a/>
+    <a href="viber://contact?number=%2B959453391177" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" title="Viber" height="30" width="40"/></a>
  </p>
   
  <h3>Skills</h3>
