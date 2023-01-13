@@ -1,3 +1,8 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:AprilViolet?theme=moebooru"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aung Cho Latt</h1>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -38,7 +43,7 @@
   </tr>
   </table>
  </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:hammer:Languages and Tools:</h3>
 <p align="center"> 
 <table>
   <tr>
@@ -105,8 +110,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
 <br/>
-
-Weekly Development & Languages
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" />
 </p>
