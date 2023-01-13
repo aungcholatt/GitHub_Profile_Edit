@@ -32,6 +32,9 @@
   <td>
 <a href="[https://linkedin.com/in/hybridoitc](https://www.linkedin.com/in/aungcho-latt-580755243/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aungcholatt" height="30" width="40" /></a>
   </td>
+    <td>
+      <a href="https://instagram.com/aungcholatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aungcholatt" height="30" width="40" /></a>
+    </td>
   <td>
 <a href="https://www.facebook.com/profile.php?id=100009292796950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungcholatt888" height="30" width="40" /></a>
   </td>
