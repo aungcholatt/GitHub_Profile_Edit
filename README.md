@@ -26,16 +26,7 @@
 - ⚡ Fun fact **Self taught individual with more than 3 year of experience.**
 </p> -->
 
-<!--  <img src = "github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=dark" width = 400 /> -->
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
-<p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aungcholatt&theme=dark&hide_border=true" width = 400 /></p>
-<table>
-  <tr>
-  <td>
-<p align="left"> <a href="https://.com"><img src="https://github-profile-trophy.vercel.app/?username=aungcholatt" alt="aungcholatt"/></a> </p>
- </td>
-  </tr>
-  </table>
+
   <p>
   Liked some of my work? Buy me a coffee (or more likely a beer)
 
@@ -54,6 +45,15 @@
   </tr>
   </table>
  </p>
+ <h3>Skills</h3>
+
+[![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
+[![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
+[![Swift](https://img.shields.io/badge/swift-%23FFac45.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/hoc081098/PhDownloader)
+[![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")](https://github.com/hoc081098/search-book-MVVM-MVI-RxSwift)
+[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
+[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
 <h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
 <p align="center"> 
 <table>
@@ -142,3 +142,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/aungcholatt)
 [![hoc081098's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&bg_color=ffffff)](https://github.com/aungcholatt)
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
+<p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aungcholatt&theme=dark&hide_border=true" width = 400 /></p> -->
+<table>
+  <tr>
+  <td>
+<p align="left"> <a href="https://.com"><img src="https://github-profile-trophy.vercel.app/?username=aungcholatt" alt="aungcholatt"/></a> </p>
+ </td>
+  </tr>
+  </table>
