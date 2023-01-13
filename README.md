@@ -50,10 +50,15 @@
 <!-- [![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart) -->
 <!-- [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 [![Swift](https://img.shields.io/badge/swift-%23FFac45.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/hoc081098/PhDownloader)
 [![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")](https://github.com/hoc081098/search-book-MVVM-MVI-RxSwift)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
 <p align="center"> 
 <table>
@@ -124,7 +129,12 @@
 <!-- [![aungcholatt's github stats](https://github-readme-stats.vercel.app/api?username=aungcholatt&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/aungcholatt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/aungcholatt)
 [![aungcholatt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&bg_color=ffffff)](https://github.com/aungcholatt) -->
-
+ <p align="left">
+<a href="https://github.com/aungcholatt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aungcholatt&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aungcholatt&layout=compact"/>
+</a>
+</p>
 <table>
   <tr>
   <td>
