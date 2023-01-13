@@ -118,7 +118,7 @@
   <tr>
     <td>
 <p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt)](https://github.com/anuraghazra/github-readme-stats)
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&aungcholatt&layout=compact&&theme=default&link="https://www.github.com/aungcholatt/")  
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&theme=radical" /> -->
 </p>
   </td>
