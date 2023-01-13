@@ -85,7 +85,10 @@
       <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
     </td>
     <td>
-     <svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M64.004 0H34.102l29.902 61.848" fill="#1697F6"/><path d="M64.004 80v48L0 18.664h33.527L64.004 80zm0-80h29.898L64.004 61.848" fill="#7BC6FF"/><path d="M94.473 18.664H128L64.004 128V80l30.469-61.336z" fill="#AEDDFF"/></svg>
+     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      TailWIND
     </td>
   <td>
  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
@@ -102,3 +105,5 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&theme=radical" /></p>
+<br/>
