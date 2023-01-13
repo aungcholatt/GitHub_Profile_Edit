@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/profile.php?id=100009292796950](https://www.facebook.com/profile.php?id=100009292796950) 
 ------->
 
-- 🔭 I’m currently working on (https://www.kioskthailand.com/)
+- 🔭 I’m currently working on https://www.kioskthailand.com/
 
 - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
 
@@ -70,7 +70,7 @@
    </td>
      <td>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-     <td>
+   </td>
   <td>
  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
    </td>
