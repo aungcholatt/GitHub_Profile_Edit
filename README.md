@@ -14,11 +14,11 @@
 
 <!-- - 🔭 I’m currently working on https://www.kioskthailand.com/ -->
 
-<!-- - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt) -->
+- 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
 
 - 💬 Ask me about **Flutter and Laravel**
 
-<!-- - 📫 How to reach me **aungcholatt888@gmail.com** -->
+- 📫 How to reach me **aungcholatt888@gmail.com**
 
 - 🌱 I’m currently learning **Nodejs**
 
