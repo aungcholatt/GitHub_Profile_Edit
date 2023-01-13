@@ -118,7 +118,8 @@
   <tr>
     <td>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&theme=radical" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt)](https://github.com/anuraghazra/github-readme-stats)
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&theme=radical" /> -->
 </p>
   </td>
       <td>
