@@ -134,3 +134,21 @@
  </td>
   </tr>
   </table>
+
+![github contribution grid snake animation](dist/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+[![hoc0810198's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hoc081098&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ <a href="https://commits.top/vietnam.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+  <a href="https://commits.top/vietnam_private.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam_private&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+
+
+<p align="center">
+      <img src="gitartwork.svg" />
+  </p>
