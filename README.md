@@ -134,7 +134,7 @@
   </tr>
   </table>
 <br/>
-### Github Stats: <a href="https://profile-summary-for-github.com/user/aungcholatt">https://profile-summary-for-github.com/user/aungcholatt</a>
+<h3>Github Stats:</h3> <a href="https://profile-summary-for-github.com/user/aungcholatt">https://profile-summary-for-github.com/user/aungcholatt</a>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aungcholatt" alt="aungcholatt" /></p>
 
