@@ -118,30 +118,18 @@
   </tr>
   </table>
 </p>
- <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
-<table>
-  <tr>
-    <td>
-<p>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/api/wakatime?username=aungcholatt&layout=compact&theme=radical" />
-</p>
-  </td>
-      <td>
-<!-- <p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=angcholatt&theme=dark&hide_border=true&layout=compact" width = 400 /></p> -->
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&theme=dark&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
-    </td>
-  </tr>
-  </table>
-<br/>
 <h3>Github Stats:</h3> <a href="https://profile-summary-for-github.com/user/aungcholatt">https://profile-summary-for-github.com/user/aungcholatt</a>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aungcholatt" alt="aungcholatt" /></p>
 
 [![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=aungcholatt&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/aungcholatt)
+
+ <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/aungcholatt)
 [![hoc081098's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&bg_color=ffffff)](https://github.com/aungcholatt)
 
+<p>![github contribution grid snake animation](dist/github-contribution-grid-snake.svg)</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
 <p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aungcholatt&theme=dark&hide_border=true" width = 400 /></p> -->
 <table>
