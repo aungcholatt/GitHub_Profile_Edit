@@ -119,8 +119,8 @@
 </p>
   </td>
       <td>
-<p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=angcholatt&theme=dark&hide_border=true&layout=compact" width = 400 /></p>
-<!--   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p> -->
+<!-- <p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=angcholatt&theme=dark&hide_border=true&layout=compact" width = 400 /></p> -->
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&theme=dark&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
     </td>
   </tr>
   </table>
