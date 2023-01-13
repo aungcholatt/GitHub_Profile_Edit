@@ -27,25 +27,22 @@
 </p> -->
 
 
-  <p>
+<!--   <p>
   Liked some of my work? Buy me a coffee (or more likely a beer)
 
 <a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
-</p>
+</p> -->
 <h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
 <p align="left">
-<table>
-  <tr>
-  <td>
-<a href="[https://linkedin.com/in/hybridoitc](https://www.linkedin.com/in/aungcho-latt-580755243/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aungcholatt" height="30" width="40" /></a>
-    <a href="aungcholatt888@gmail.com"><img src="https://img.shields.io/badge/-aungcholatt@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  </td>
-  <td>
-<a href="https://www.facebook.com/profile.php?id=100009292796950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungcholatt888" height="30" width="40" /></a>
-  </td>
-  </tr>
-  </table>
+<!-- <a href="[https://linkedin.com/in/hybridoitc](https://www.linkedin.com/in/aungcho-latt-580755243/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aungcholatt" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009292796950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungcholatt888" height="30" width="40" /></a> -->
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009292796950)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungcho-latt-580755243/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aungcholatt)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11191424/aungcholatt)
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungcholatt888@gmail.com?subject=[Freelancer]%20Hello)
  </p>
+  
  <h3>Skills</h3>
 
 <!-- [![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart) -->
@@ -56,11 +53,11 @@
 [![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")](https://github.com/hoc081098/search-book-MVVM-MVI-RxSwift)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
 <h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
 <p align="center"> 
 <table>
