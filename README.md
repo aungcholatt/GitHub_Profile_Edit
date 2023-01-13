@@ -26,8 +26,8 @@
 - ⚡ Fun fact **Self taught individual with more than 3 year of experience.**
 </p> -->
 
- <img src = "github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=dark" width = 400 />
-<!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight) -->
+<!--  <img src = "github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=dark" width = 400 /> -->
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
 <table>
   <tr>
   <td>
@@ -112,7 +112,7 @@
   </tr>
   </table>
 </p>
- ⚙️ &nbsp;GitHub Analytics
+ <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
 <table>
   <tr>
     <td>
