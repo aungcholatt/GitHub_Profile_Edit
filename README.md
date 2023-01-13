@@ -8,7 +8,7 @@
 ------->
 
 <p align="">
-- 🔭 I’m currently working on [KMONEY](https://www.kioskthailand.com/)
+- 🔭 I’m currently working on (https://www.kioskthailand.com/)
 </p>
 
 - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
@@ -21,11 +21,13 @@
 - 🌱 I’m currently learning **Nodejs**
 </p>
 
-<p align="">
+<!-- <p align="">
 - ⚡ Fun fact **Self taught individual with more than 3 year of experience.**
-</p>
+</p> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
+
+<p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=hybridoitc" alt="hybridoitc" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
