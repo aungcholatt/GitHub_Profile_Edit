@@ -7,14 +7,22 @@
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/profile.php?id=100009292796950](https://www.facebook.com/profile.php?id=100009292796950) 
 ------->
 
+<p align="">
+- 🔭 I’m currently working on [KMONEY](https://www.kioskthailand.com/)
+</p>
+
 - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
 
 - 💬 Ask me about **Flutter and Laravel**
 
 - 📫 How to reach me **aungcholatt888@gmail.com**
 
-<p align="center">
+<p align="">
 - 🌱 I’m currently learning **Nodejs**
+</p>
+
+<p align="">
+- ⚡ Fun fact **Self taught individual with more than 3 year of experience.**
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
