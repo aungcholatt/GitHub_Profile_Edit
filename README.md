@@ -118,8 +118,8 @@
   <tr>
     <td>
 <p>
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&aungcholatt&layout=compact&&theme=default&link="https://www.github.com/aungcholatt/")  
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&theme=radical" /> -->
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt/AungChoLatt&layout=compact&theme=radical" />
 </p>
   </td>
       <td>
