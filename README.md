@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aung Cho Latt</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungcholatt&label=Profile%20views&color=0e75b6&style=flat" alt="aungcholatt" /> </p>
 
@@ -28,6 +28,7 @@
 
 <!--  <img src = "github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=dark" width = 400 /> -->
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
+<p><img src = "https://github-readme-streak-stats.herokuapp.com/?user=bhaveshppatil&theme=dark&hide_border=true" width = 400 /></p>
 <table>
   <tr>
   <td>
