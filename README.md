@@ -121,11 +121,11 @@
 
 <h3>Github Stats:<a href="https://profile-summary-for-github.com/user/aungcholatt">https://profile-summary-for-github.com/user/aungcholatt</a></h3>
  <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aungcholatt" alt="aungcholatt" /></p>
-[![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=aungcholatt&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/aungcholatt)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc081098" alt="hoc081098" /></p>
 
+[![aungcholatt's github stats](https://github-readme-stats.vercel.app/api?username=aungcholatt&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/aungcholatt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/aungcholatt)
-[![hoc081098's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&bg_color=ffffff)](https://github.com/aungcholatt)
+[![aungcholatt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoc081098&layout=compact&bg_color=ffffff)](https://github.com/hoc081098)
 
 <table>
   <tr>
