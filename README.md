@@ -34,7 +34,7 @@
  </td>
   </tr>
   </table>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
 <p align="left">
 <table>
   <tr>
@@ -47,7 +47,7 @@
   </tr>
   </table>
  </p>
-<h3 align="left">:hammer:Languages and Tools:</h3>
+<h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
 <p align="center"> 
 <table>
   <tr>
@@ -119,7 +119,8 @@
 </p>
   </td>
       <td>
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
+<p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=angcholatt&theme=dark&hide_border=true&layout=compact" width = 400 /></p>
+<!--   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p> -->
     </td>
   </tr>
   </table>
