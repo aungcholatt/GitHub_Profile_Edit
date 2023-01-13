@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aung Cho Latt</h1>
-<h3 align="center">Full Stack Developer👨‍💻</h3>
+<h3 align="center">👨‍💻Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungcholatt&label=Profile%20views&color=0e75b6&style=flat" alt="aungcholatt" /> </p>
 
@@ -32,7 +32,7 @@
 <table>
   <tr>
   <td>
-<p align="left"> <a href="https://.com"><img src="https://github-profile-trophy.vercel.app/?username=aungcholatt" alt="aungcholatt" /></a> </p>
+<p align="left"> <a href="https://.com"><img src="https://github-profile-trophy.vercel.app/?username=aungcholatt" alt="aungcholatt"/></a> </p>
  </td>
   </tr>
   </table>
@@ -119,7 +119,7 @@
     <td>
 <p>
 
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=aungcholatt&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/api/wakatime?username=aungcholatt&layout=compact&theme=radical" />
 </p>
   </td>
       <td>
