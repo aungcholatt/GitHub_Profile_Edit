@@ -27,9 +27,13 @@
 </p> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
-
+<table>
+  <tr>
+  <td>
 <p align="left"> <a href="https://.com"><img src="https://github-profile-trophy.vercel.app/?username=aungcholatt" alt="aungcholatt" /></a> </p>
-
+ </td>
+  </tr>
+  </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <table>
