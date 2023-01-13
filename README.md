@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/profile.php?id=100009292796950](https://www.facebook.com/profile.php?id=100009292796950) 
 ------->
 
-- 🔭 I’m currently working on (https://www.kioskthailand.com/)
+- 🔭 I’m currently working on https://www.kioskthailand.com/
 
 - 📝 I regularly write articles on [https://github.com/aungcholatt](https://github.com/aungcholatt)
 
@@ -57,6 +57,7 @@
   <td>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
    </td>
+    <td>
  <a href="https://developer.mozilla.org/en-US/docs/Web/Flutter" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> 
    </td>
      <td>
