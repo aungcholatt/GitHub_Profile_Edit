@@ -26,7 +26,8 @@
 - ⚡ Fun fact **Self taught individual with more than 3 year of experience.**
 </p> -->
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight)
+ <img src = "https://github-readme-stats.vercel.app/api?username=aungcholatt&show_icons=true&theme=dark" width = 400 />
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aungcholatt&show_icons=true&theme=tokyonight) -->
 <table>
   <tr>
   <td>
