@@ -104,6 +104,10 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aungcholatt&show_icons=true&locale=en&layout=compact" alt="aungcholatt" /></p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&theme=radical" /></p>
+### :memo:Weekly Development & Languages
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilViolet&theme=tokyonight&layout=compact" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" /></p>
 <br/>
