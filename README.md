@@ -131,7 +131,10 @@
 [![aungcholatt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungcholatt&layout=compact&bg_color=ffffff)](https://github.com/aungcholatt) -->
  <p align="left">
 <a href="https://github.com/aungcholatt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aungcholatt&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aungcholatt&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/></a>
+    </p>
+    <p align="left">
+        <a href="https://github.com/aungcholatt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aungcholatt&layout=compact"/>
 </a>
 </p>
