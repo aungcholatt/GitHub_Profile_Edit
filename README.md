@@ -1,12 +1,12 @@
-<p float="left">
+<p float="right">
     <img src="https://bmcdn.nl/assets/weather-icons/v2.0/line/clear-day.svg" alt="Partly Cloudy Day" height="48"/>
     <img src="https://bmcdn.nl/assets/weather-icons/v2.0/line/partly-cloudy-day.svg" alt="Partly Cloudy Day" height="48"/>
     <img src="https://bmcdn.nl/assets/weather-icons/v2.0/line/rain.svg" alt="Rain" height="48"/>
     <img src="https://bmcdn.nl/assets/weather-icons/v2.0/line/tornado.svg" alt="Tornado" height="48"/>
     <img src="https://bmcdn.nl/assets/weather-icons/v2.0/line/clear-night.svg" alt="Clear Night" height="48"/>
 </p>
-<!-- <p>
-<!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:AprilViolet?theme=moebooru"></a> -->
+<!--  <p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:AprilViolet?theme=moebooru"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p> -->
 <br/>
