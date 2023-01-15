@@ -10,7 +10,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p> -->
 <br/>
-<h1 align="center">Hi 👋, I'm Aung Cho Latt<p align="right">👨‍💻</p></h1>
+<h1 align="center">Hi 👋, I'm Aung Cho Latt<span align="right">👨‍💻</span></h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungcholatt&label=Profile%20views&color=0e75b6&style=flat" alt="aungcholatt" /> </p>
