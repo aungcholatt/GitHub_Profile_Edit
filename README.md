@@ -11,7 +11,7 @@
 </p> -->
 <br/>
 <h1 align="center">Hi 👋, I'm Aung Cho Latt</h1>
-<h3 align="center">Full Stack Developer</h3><h1>👨‍💻</h1>
+<h3 align="center">Full Stack Developer</h3><h1 align="right">👨‍💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungcholatt&label=Profile%20views&color=0e75b6&style=flat" alt="aungcholatt" /> </p>
 
