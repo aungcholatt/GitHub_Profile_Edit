@@ -154,7 +154,7 @@
   <img src="http://iot.fbiego.com/api/v1/commits?user=aungcholatt&country=Myanmar&bg_color=#00FF00&text_color=fafafa&border_color=293035">
   </a>
   <a href="https://commits.top/vietnam_private.html">
-  <img src="http://iot.fbiego.com/api/v1/commits?user=aungcholatt&country=Myanmar_private&bg_color=293035&text_color=fafafa&border_color=293035">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=aungcholatt&country=Myanmar&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
 
 
