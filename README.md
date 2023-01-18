@@ -42,7 +42,7 @@
 <h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aungcho-latt-580755243/" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  title="LinkedIn" height="30" width="40"/></a>
-   <a href=" https://twitter.com/LattAungcho" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" height="30" width="40"/></a>
+   <a href=" https://twitter.com/LattAungcho" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" title="Twitter" height="30" width="40"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009292796950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungcholatt888" height="30" width="40" /></a>
 <a href="https://aungcholatt888@gmail.com" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" title="Gmail" height="30" width="40"/></a>
   <a href="https://t.me/AungChoLatt" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" title="Telegram" height="30" width="40"/><a/>
