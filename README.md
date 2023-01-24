@@ -39,7 +39,7 @@
 
 <a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
 </p> -->
-<h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
+<!-- <h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aungcho-latt-580755243/" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  title="LinkedIn" height="30" width="40"/></a>
    <a href="https://twitter.com/LattAungcho" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" title="Twitter" height="30" width="40"/></a>
@@ -47,7 +47,7 @@
 <a href="https://aungcholatt888@gmail.com" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" title="Gmail" height="30" width="40"/></a>
   <a href="https://t.me/AungChoLatt" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" title="Telegram" height="30" width="40"/><a/>
     <a href="viber://contact?number=%2B959453391177" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" title="Viber" height="30" width="40"/></a>
- </p>
+ </p> -->
   
 <!--  <h3>Skills</h3> -->
 <!-- [![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart) -->
@@ -151,11 +151,11 @@
 
 [![aungcholatt's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungcholatt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <a href="https://commits.top/vietnam.html">
+<!--  <a href="https://commits.top/vietnam.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=aungcholatt&country=Myanmar&bg_color=#00FF00&text_color=fafafa&border_color=293035">
   </a>
   <a href="https://commits.top/vietnam_private.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=aungcholatt&country=Myanmar&bg_color=293035&text_color=fafafa&border_color=293035">
-  </a>
+  </a> -->
 
 
