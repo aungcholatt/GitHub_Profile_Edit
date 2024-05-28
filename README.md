@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **aungcholatt888@gmail.com**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nodejs & Swift**
 
 <!-- <p align="">
 - ⚡ Fun fact **Self taught individual with more than 3 year of experience.**
@@ -87,7 +87,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/Flutter" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> 
    </td>
      <td>
- <a href="https://laraval.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a> 
+ <a href="https://laraval.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.s" alt="laravel" width="40" height="40"/></a> 
    </td>
      <td>
    <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
